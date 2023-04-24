@@ -10,7 +10,7 @@ terraform {
     }
   }
 
-#teste de atualizacao
+#teste de atualizacao novo
  
 
   backend "azurerm" {
